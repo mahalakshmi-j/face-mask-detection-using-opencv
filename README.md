@@ -1,0 +1,2 @@
+# face-mask-detection-using-opencv
+This project intends to implement a real time face mask detector using Open CV. Keras/TensorFlow and Deep Learning. This COVID related application of computer vision throws a propitious light on improving survival standards during this pandemic. Pre-requisites: TensorFlow >=1.15.2, keras ==2.3.1, imutils==0.5.3, numpy==1.18.2, opencv-python>=4.2.0. ,matplotlib==3.2.1, scipy==1.4.1.
